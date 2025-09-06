@@ -1,0 +1,24 @@
+{
+  "team": [
+    {
+      "name": "Shayan",
+      "role": "Team Lead",
+      "skills": ["Backend", "DB"]
+    },
+    {
+      "name": "Mainak",
+      "role": "Frontend",
+      "skills": ["Frontend"]
+    },
+    {
+      "name": "Shwetank",
+      "role": "TBD",
+      "skills": []
+    },
+    {
+      "name": "Renescence",
+      "role": "TBD",
+      "skills": []
+    }
+  ]
+}
